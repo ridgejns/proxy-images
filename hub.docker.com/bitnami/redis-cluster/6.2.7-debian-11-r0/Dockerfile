@@ -1,0 +1,1 @@
+FROM hub.docker.com/bitnami/redis-cluster:6.2.7-debian-11-r0

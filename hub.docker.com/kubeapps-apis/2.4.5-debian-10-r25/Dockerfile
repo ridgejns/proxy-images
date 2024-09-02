@@ -1,0 +1,1 @@
+FROM hub.docker.com/kubeapps-apis:2.4.5-debian-10-r25
